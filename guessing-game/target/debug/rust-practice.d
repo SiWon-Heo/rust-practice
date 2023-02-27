@@ -1,0 +1,1 @@
+/Users/calvin/Documents/skku/dev/Blockchain/FastCampus/Part10/rust-practice/guessing-game/target/debug/rust-practice: /Users/calvin/Documents/skku/dev/Blockchain/FastCampus/Part10/rust-practice/guessing-game/src/main.rs
